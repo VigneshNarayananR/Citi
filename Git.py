@@ -1,7 +1,12 @@
 # This program adds two numbers
 
-num1 = 2.6
+<<<<<<< HEAD
+num1 = 1.7
 num2 = 6.3
+=======
+num1 = 1.6
+num2 = 6.5
+>>>>>>> feature
 
 # Add two numbers
 sum = num1 + num2
